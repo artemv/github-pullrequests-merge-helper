@@ -1,5 +1,7 @@
 # github-pullrequests-merge-helper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/artemv/github-pullrequests-merge-helper.svg)](https://greenkeeper.io/)
+
 [![NPM info][nodei.co]][npm-url]
 
 [![Circle CI](https://circleci.com/gh/artemv/github-pullrequests-merge-helper.svg?style=shield)](https://circleci.com/gh/artemv/github-pullrequests-merge-helper)
